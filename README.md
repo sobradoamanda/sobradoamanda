@@ -1,5 +1,5 @@
 ### Hi, Amanda here 👋
-I'm an industrial engineer studying hard to become a **data engineer**. I have experience with building dashboard on PowerBi, processes improvement and management consulting. 
+I'm an industrial engineer studying to become a **data engineer**. I have experience with building dashboard on PowerBi, processes improvement and management consulting. 
 
 I'm currently studying **Databases** at Faculdade Impacta Tecnologia and learning **python**, **SQL** and other technologies on my own. 
 
