@@ -1,7 +1,5 @@
-### Hi, Amanda here 👋
-I'm an industrial engineer making a career transition to Data Analytics. I have experience with building dashboard on PowerBi, processes improvement and management consulting. 
-
-I'm currently studying **Databases** at Faculdade Impacta Tecnologia and learning **python**, **SQL** and other technologies on my own. 
+### Hi
+I'm an industrial engineer studying Data Analytics. I have experience with building dashboard on PowerBi, processes improvement and management consulting. 
 
 
 ### You can also find me:
