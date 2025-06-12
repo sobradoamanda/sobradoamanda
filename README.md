@@ -1,7 +1,3 @@
-### Hi
-I'm an industrial engineer studying Data Analytics. I have experience with building dashboard on PowerBi, processes improvement and management consulting. 
-
-
 ### You can also find me:
 <a href="https://www.linkedin.com/in/amanda-sobrado-b09012130/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
